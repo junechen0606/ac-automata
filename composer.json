@@ -1,0 +1,19 @@
+{
+    "name": "dershun/ac-automaton",
+    "description": "PHP Aho-Corasick automaton",
+    "authors": [
+        {
+            "name": "juneChen",
+            "email": "junechen_0606@163.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dershun\\AcAutomation\\": "src/"
+        }
+    }
+}
